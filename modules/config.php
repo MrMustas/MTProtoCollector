@@ -1,6 +1,6 @@
 <?php
 $sources = [
-    "NPROXY"
+    "ProxyHagh"
 ];
 
 ?>
